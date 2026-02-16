@@ -1,27 +1,22 @@
-# Ba-case-project
+# SmartCoffee App - Business Analysis Case Study
 
-## Problem
-People applying for multiple jobs lose track of applications, statuses and follow-ups.
+## Project Overview
+This project focuses on the Business Analysis for a mobile application designed to connect employees with smart coffee machine in a corporate environment.
 
 ## Goal
-Provide a simple way to track job applications in one place.
+The goal is to streamline the coffee-making process and provide a personalized experience.
 
 ## My role (Business Analyst)
-- Identified real user problems
 - Defined MVP scope
 - Created Jira Epics, User Stories and Acceptance Criteria
 - Planned product lifecycle
 
 ## MVP Scope
-- Manual job application entry
-- Application statuses
-- Notes per application
+- Secure connection via company Wi-Fi with coffee machine
+- Customization of coffee parameters (water ml & coffee grams)
+- Remote start of the coffee-making process.
 
 ## Tools & Methods
 - Business Analysis
 - MVP definition
 - Jira (conceptual)
-- Agile mindset
-
-## Why this project?
-This project is based on a real-life problem experienced by job seekers.
